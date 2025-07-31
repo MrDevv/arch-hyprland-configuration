@@ -18,7 +18,7 @@ Los scripts necesitan que se tenga instalado las siguientes dependencias:
 ```bash
 mkdir ~/dev/config
 cd dev/config
-git clone https://github.com/MrDevv/arch-hyprland-contiguration.git
+git clone https://github.com/MrDevv/arch-hyprland-configuration.git
 mv arch-hyprland-contiguration dotfiles
 cd dotfiles
 ./install.sh
